@@ -1,4 +1,4 @@
-HOMEWORK 1
+# HOMEWORK 1
 ### CIS 3353 - Computer Systems Security
 
 ## Covered Chapters
@@ -9,7 +9,7 @@ HOMEWORK 1
 
 Sep 13, 2021
 
-## Homework excersizes
+## Homework exercises
 
 1. Access the following links and explore information of Ransowmware Attacks, Data Breaches, and Hacks to gain a perspective of the current state in the cyber security field:
 
