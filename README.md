@@ -1,2 +1,5 @@
 # Computer Systems Security
-## Chapter 1 - Introduction
+
+## Important Announcements:
+
+- Homework 1 due on Sep 13, 2021
