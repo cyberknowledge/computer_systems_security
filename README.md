@@ -2,4 +2,4 @@
 
 ## Important Announcements:
 
-- Homework 1 due on Sep 13, 2021
+- Homework 1 due dte change: From Sep 13, 2021 To Sep 15, 2021 11:59 PM
