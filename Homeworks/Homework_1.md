@@ -21,8 +21,8 @@ Sep 13, 2021
 2. Search for 2 of the most relevant cyber attacks (Kaseya, SolarWinds, Colonial Pipeline) and provide a 2 paragraph summary of these attacks and respond to the following questions:
 
 - Who was the threat actor?
-- Are there proofs that the actor was state sponsored?
-- What was the threat for the targeted company?
+- Is there proofs that the actor was state sponsored?
+- What was the threat to the targeted company?
 - What was the risk for the targeted company?
 - What was the asset the attackers aimed to affect?
 - What vulnerability was exploited?
@@ -34,7 +34,7 @@ Sep 13, 2021
 
 4. Install a vulnerable application (WebGoat or DVWA) in your Kali Linux system
 
-5. Use a reconnaisance/information gatehring tool (Recon-ng or Nmap) to identify open ports and running services in your system.
+5. Use a reconnaissance/information gathering tool (Recon-ng or Nmap) to identify open ports and running services in your system.
 
 6. Use a vulnerability assessment tool (Nikto, OWASP ZAP, or SQLmap) to identify vulnerabilities in the target application (WebGoat or DVWA).
 
